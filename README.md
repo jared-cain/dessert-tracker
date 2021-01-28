@@ -1,14 +1,10 @@
 ## Project Name & Pitch
 
-#### Example:
-
 Dessert Tracker 
 
 An application used to add and filter data related to dessert nutrition.
 
-## Installation and Setup Instructions
-
-#### Example:  
+## Installation and Setup Instructions 
 
 Clone down this repository. You will need `node` and `npm` installed globally on your machine.  
 
